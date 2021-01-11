@@ -18,10 +18,10 @@
     
     性能指标：用普通充电宝等可以当作电源，功耗较低，对环境的影响可以忽略，工作频段就是lora模块的频段，可以实时显示所测得得环境温湿度
     
-    源代码如下：
+源代码如下：
     
- 网关：
- #include <LoRaNow.h>
+网关：
+#include <LoRaNow.h>
 #include <WiFi.h>
 #include <WebServer.h>
 #include <StreamString.h>
